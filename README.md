@@ -14,7 +14,7 @@ Repository contenente i compiti e gli elaborati del corso di **Analisi e Progett
 
 Tutti i documenti sono stati realizzati in **LaTeX (Overleaf)** e, ove necessario, accompagnati da **codice Python** utilizzato per la verifica e la sperimentazione degli algoritmi.
 
-it 
+ 
 ## 📖 Argomenti trattati
 
 - Algoritmi **Las Vegas** e **Monte Carlo**

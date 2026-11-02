@@ -1,0 +1,78 @@
+Dato 65:
+	s:6
+	q=1
+
+--------- OUTPUT n:65 ---------
+2: composto
+3: composto
+4: composto
+5: composto
+6: composto
+7: composto
+8: Non composto
+9: composto
+10: composto
+11: composto
+12: composto
+13: composto
+14: composto
+15: composto
+16: composto
+17: composto
+18: Non composto
+19: composto
+20: composto
+21: composto
+22: composto
+23: composto
+24: composto
+25: composto
+26: composto
+27: composto
+28: composto
+29: composto
+30: composto
+31: composto
+32: composto
+33: composto
+34: composto
+35: composto
+36: composto
+37: composto
+38: composto
+39: composto
+40: composto
+41: composto
+42: composto
+43: composto
+44: composto
+45: composto
+46: composto
+47: Non composto
+48: composto
+49: composto
+50: composto
+51: composto
+52: composto
+53: composto
+54: composto
+55: composto
+56: composto
+57: Non composto
+58: composto
+59: composto
+60: composto
+61: composto
+62: composto
+63: composto
+--------- FINE ---------
+
+Bugiardi (nell'intervallo 2-63):  [8, 18, 47, 57]
+Testimoni Banali:  [5, 10, 13, 15, 20, 25, 26, 30, 35, 39, 40, 45, 50, 52, 55, 60]
+Testimoni NON Banali:  [2, 3, 4, 6, 7, 9, 11, 12, 14, 16, 17, 19, 21, 22, 23, 24, 27, 28, 29, 31, 32, 33, 34, 36, 37, 38, 41, 42, 43, 44, 46, 48, 49, 51, 53, 54, 56, 58, 59, 61, 62, 63]
+
+Z*_n:  [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 14, 16, 17, 18, 19, 21, 22, 23, 24, 27, 28, 29, 31, 32, 33, 34, 36, 37, 38, 41, 42, 43, 44, 46, 47, 48, 49, 51, 53, 54, 56, 57, 58, 59, 61, 62, 63, 64]
+Insieme H_n con definzione:  [1, 8, 12, 14, 18, 21, 27, 31, 34, 38, 44, 47, 51, 53, 57, 64]
+E sottogruppo  Verificato su:
+	Gruppo in eseme: [1, 8, 12, 14, 18, 21, 27, 31, 34, 38, 44, 47, 51, 53, 57, 64] 
+	Gruppo: [1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 14, 16, 17, 18, 19, 21, 22, 23, 24, 27, 28, 29, 31, 32, 33, 34, 36, 37, 38, 41, 42, 43, 44, 46, 47, 48, 49, 51, 53, 54, 56, 57, 58, 59, 61, 62, 63, 64]
